@@ -1,5 +1,5 @@
 # Portfolio
 
-This is my Potfolio site.
+To view please [click here](https://najnintintoiya.netlify.app/)
 
-For now I  know.
+
